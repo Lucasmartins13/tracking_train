@@ -14,11 +14,11 @@ Cálculo de Distâncias: Calcula a distância percorrida por um ponto e a distâ
 
 ## **Tecnologias Utilizadas**
 
-.Python
+. Python
 
-.OpenCV
+. OpenCV
 
-.NumPy
+. NumPy
 
 ## **como usar**
 
