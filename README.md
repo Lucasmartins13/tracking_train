@@ -1,1 +1,1 @@
-
+Este projeto utiliza a biblioteca OpenCV para realizar o rastreamento de pontos em um vídeo, calcular distâncias entre pontos e trajetórias, e estabilizar os frames do vídeo. O usuário seleciona dois pontos de interesse, e o programa processa o vídeo para fornecer informações visuais e numéricas sobre o movimento dos pontos selecionados.
