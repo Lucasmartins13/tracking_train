@@ -30,7 +30,7 @@ Este projeto utiliza a biblioteca OpenCV para realizar o rastreamento de pontos 
 . Adicione o vídeo que deseja processar (renomeie para cut_vid.mp4 ou altere o nome no código, se necessário).
 
 . Execute o programa:
-  python rastreamento.py
+  main.py
 
 . Na janela do vídeo:
 
