@@ -20,7 +20,7 @@ Este projeto utiliza a biblioteca OpenCV para realizar o rastreamento de pontos 
 
 . NumPy
 
-## **como usar**
+## **Como usar**
 
 . Certifique-se de ter o Python 3.x instalado.
 
